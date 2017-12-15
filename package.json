@@ -1,7 +1,7 @@
 {
   "name": "parcel-react",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.tsx",
   "license": "MIT",
   "scripts": {
     "start": "parcel index.html"
@@ -15,7 +15,6 @@
   "devDependencies": {
     "babel-preset-react": "^6.24.1",
     "parcel-bundler": "^1.0.3",
-    "parcel-plugin-typescript": "^0.2.1-angular-aot.6",
     "typescript": "^2.6.2"
   }
 }
