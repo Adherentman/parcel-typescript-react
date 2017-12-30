@@ -37,7 +37,7 @@ Submit a pull request :D
 ## Author
 
 * [github/Adherentman](https://github.com/Adherentman)
-
+* [blog](http://xuzihao.fun)
 ## License
 
 MIT © Adherentman
