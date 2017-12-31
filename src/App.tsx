@@ -10,9 +10,9 @@ class AppPropsType{
 
 export default class App extends React.Component<AppPropsType,AppStateType>{
   render(){
-    return <>
+    return <div>
       Hello World!
       Welcome my Github!
-    </>;
+    </div>;
   }
 }
