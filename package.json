@@ -9,7 +9,6 @@
   "dependencies": {
     "@types/react": "^16.0.30",
     "@types/react-dom": "^16.0.3",
-    "antd": "^3.0.3",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },
