@@ -1,20 +1,16 @@
 import * as React from 'react';
 
-class AppStateType{
+class AppStateType {}
 
-};
+class AppPropsType {}
 
-class AppPropsType{
-
-};
-
-export default class App extends React.Component<AppPropsType,AppStateType>{
-  render(){
-    return <div>
-      Hello World!
-     <div>
-	 Welcome my Github!
-     </div>   
- </div>;
+export default class App extends React.Component<AppPropsType, AppStateType> {
+  render() {
+    return (
+      <div>
+        Hello World!
+        <div>Welcome my Github!</div>
+      </div>
+    );
   }
 }

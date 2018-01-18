@@ -1,6 +1,8 @@
-# parcel-typescript-react-example
+# parcel-typescript-react-example 👍
 
 A minimum TypeScript-react app with Parcel Bundler.
+
+Use parcel、Typescript、react、perttier.
 
 ## Source code
 
@@ -21,6 +23,8 @@ For more details, see src/.
 Launch development server.
 
 > yarn start
+>
+> yarn format //prettier
 
 ## Contributing
 
@@ -42,6 +46,7 @@ Submit a pull request :D
 
 * [github/Adherentman](https://github.com/Adherentman)
 * [blog](http://xuzihao.fun)
+
 ## License
 
 MIT © Adherentman
