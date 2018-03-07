@@ -3,8 +3,14 @@
   "version": "1.0.0",
   "main": "src/index.tsx",
   "license": "MIT",
+  "keywords": [
+    "Typescript",
+    "React",
+    "Parcel"
+  ],
   "scripts": {
     "start": "parcel index.html",
+    "build": "cross-env NODE_ENV=production parcel build index.html --public-url '/'",
     "format": "prettier --write '**/*.{tsx,ts,css,md}'"
   },
   "dependencies": {
@@ -15,7 +21,8 @@
   },
   "devDependencies": {
     "babel-preset-react": "^6.24.1",
-    "parcel-bundler": "^1.0.3",
+    "cross-env": "^5.1.3",
+    "parcel-bundler": "^1.6.2",
     "prettier": "1.10.2",
     "typescript": "^2.6.2"
   }
